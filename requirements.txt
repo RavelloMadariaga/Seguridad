@@ -93,7 +93,7 @@ python-jwt
 pytweening
 pytz
 pywhatkit
-pywin32
+pywin32==23.3.1
 pyzmq
 requests
 requests-toolbelt
