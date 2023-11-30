@@ -127,3 +127,4 @@ wsproto
 yarl
 yellowbrick
 gunicorn
+whitenoise
