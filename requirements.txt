@@ -21,7 +21,7 @@ cycler
 debugpy
 decorator==5.1.1
 Deprecated==1.2.13
-Django==4.1.1
+Django
 EasyProcess==1.1
 entrypoint2==1.1
 exceptiongroup==1.1.1
