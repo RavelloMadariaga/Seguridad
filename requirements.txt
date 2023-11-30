@@ -103,7 +103,7 @@ screeninfo
 seaborn
 selenium
 six
-sklearn
+scikit-learn
 sniffio
 sortedcontainers
 soupsieve
