@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kg-!q%mo8mrk%f!l8sq2h^uzgqc%xiu#x!9civl&c@x9*p)ztw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['inmovilis.onrender.com']
+ALLOWED_HOSTS = ['inmovilis.onrender.com','127.0.0.1']
 
 
 # Application definition
@@ -116,7 +116,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = 'static/core/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
